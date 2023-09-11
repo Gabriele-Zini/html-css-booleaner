@@ -115,6 +115,47 @@ table{
 /* /table lorem section */
 
 
+/* interest section */
+.interest-section{
+    font-size: 20px;
+    font-weight: bold;
+    color:white;
+    margin-top: 40px;
+    
+}
+
+.interest-title{
+    color:rgb(164, 162, 162);
+    
+   
+}
+
+.interest-1{
+    background-image: url(../img/monitor.jpg);
+    width: 300px ;
+    height: 200px ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 25px;
+
+}
+
+.interest-2{
+    background-image: url(../img/graph.jpg);
+    width: 300px ;
+    height: 200px ;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 25px;
+    margin-bottom: 40px;
+
+
+}
+/* /interest section */
+
+
 /* MAIN */
 
 
