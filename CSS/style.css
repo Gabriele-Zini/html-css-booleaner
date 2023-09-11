@@ -1,3 +1,11 @@
+/* SET UP DEFAULT MARGIN */
+*{ 
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+
 /* HEADER */
 header{
     background-image: url('../img/pattern.png');
@@ -10,9 +18,49 @@ header{
     padding-top: 45px;
     padding-left: 10px;
 }
+/* /HEADER */
+
+
+
+/* MAIN */
+main{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/* title */
+.title-text{
+    font-size: 50px;
+}
+
+.credit{
+    font-size:20px ;
+    color: grey;
+
+}
+
+a{
+    text-decoration: none;
+    color: #4EA0FF;
+}
+
+a:hover{
+    color: blue;
+}
+
+
+.date{
+    font-size:15px ;
+    color: grey;
+
+}
+
+/* /title */
 
 /* MAIN */
 
 
 
 /* FOOTER */
+/* /FOOTER */
+
