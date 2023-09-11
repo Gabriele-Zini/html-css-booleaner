@@ -54,8 +54,23 @@ a:hover{
     color: grey;
 
 }
-
 /* /title */
+
+/* img-section */
+.img-section{
+    margin-top: 25px;
+}
+
+.Tim-picture{
+    height: 500px;
+    
+}
+
+figcaption{
+    font-size: 15px;
+}
+/* /img-section */
+
 
 /* MAIN */
 
