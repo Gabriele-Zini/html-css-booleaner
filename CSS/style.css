@@ -87,11 +87,31 @@ span{
 .lorem-list{
     font-size: 20px;
     margin-top: 40px;
-    padding-left: 10px;
+    padding-left: 20px;
 }
 /* /ul lorem ipsum section  */
 
 /* table lorem section */
+table{
+    margin-top: 40px;
+    border-collapse: collapse;
+    table-layout: auto;
+    font-size: 20px;
+}
+
+.table-head{
+    color: white;
+    background-color: #4EA0FF;
+    font-weight: bold;
+}
+
+.wide-cell{
+    width:50%;
+}
+
+.first-row, .third-row{
+    background-color: rgb(159, 230, 254);
+}
 /* /table lorem section */
 
 
