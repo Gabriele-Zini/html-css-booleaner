@@ -1,5 +1,5 @@
 /* SET UP DEFAULT MARGIN */
-*{
+* {
     box-sizing: border-box;
     margin: 0;
 }
@@ -7,13 +7,13 @@
 
 
 /* HEADER */
-header{
+header {
     background-image: url('../img/pattern.png');
     background-size: 500px;
     background-color: #4EA0FF;
 }
 
-.logo{
+.logo {
     width: 300px;
     padding-top: 45px;
     padding-left: 10px;
@@ -23,20 +23,21 @@ header{
 
 
 /* MAIN */
-main{
+main {
     margin-left: 10px;
     margin-right: 10px;
 }
 
 /* title */
-.title{
+.title {
     margin-top: 20px;
 }
-.title-text{
+
+.title-text {
     font-size: 50px;
 }
 
-.credit{
+.credit {
     font-size:20px ;
     color: grey;
 
@@ -47,12 +48,12 @@ a{
     color: #4EA0FF;
 }
 
-a:hover{
+a:hover {
     color: blue;
 }
 
 
-.date{
+.date {
     font-size:15px ;
     color: grey;
 
@@ -60,26 +61,27 @@ a:hover{
 /* /title */
 
 /* img-section */
-.img-section{
+.img-section {
     margin-top: 25px;
 }
 
-.Tim-picture{
+.tim-picture {
     height: 500px;
 
 }
 
-figcaption{
+figcaption {
     font-size: 15px;
 }
 /* /img-section */
 
 /* lorem ipsum section */
-.lorem-paragraph{
+.lorem-paragraph {
     margin-top: 30px;
     font-size: 20px;
 }
-span{
+
+span {
     background-color: yellow;
 }
 
@@ -87,7 +89,7 @@ span{
 
 
 /* ul lorem ipsum section  */
-.lorem-list{
+.lorem-list {
     font-size: 20px;
     margin-top: 40px;
     padding-left: 20px;
@@ -95,31 +97,31 @@ span{
 /* /ul lorem ipsum section  */
 
 /* table lorem section */
-table{
+table {
     margin-top: 40px;
     border-collapse: collapse;
     table-layout: auto;
     font-size: 20px;
 }
 
-.table-head{
+.table-head {
     color: white;
     background-color: #4EA0FF;
     font-weight: bold;
 }
 
-.wide-cell{
+.wide-cell {
     width:50%;
 }
 
-.first-row, .third-row{
+.first-row, .third-row {
     background-color: rgb(159, 230, 254);
 }
 /* /table lorem section */
 
 
 /* interest section */
-.interest-section{
+.interest-section {
     font-size: 20px;
     font-weight: bold;
     color:white;
@@ -127,13 +129,13 @@ table{
     
 }
 
-.interest-title{
+.interest-title {
     color:rgb(164, 162, 162);
     
    
 }
 
-.interest-1{
+.interest-1 {
     background-image: url(../img/monitor.jpg);
     width: 300px ;
     height: 200px ;
@@ -145,7 +147,7 @@ table{
 
 }
 
-.interest-2{
+.interest-2 {
     background-image: url(../img/graph.jpg);
     width: 300px ;
     height: 200px ;
