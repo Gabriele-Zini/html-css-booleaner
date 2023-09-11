@@ -1,5 +1,5 @@
 /* SET UP DEFAULT MARGIN */
-*{ 
+*{
     box-sizing: border-box;
     margin: 0;
 }
@@ -63,13 +63,36 @@ a:hover{
 
 .Tim-picture{
     height: 500px;
-    
+
 }
 
 figcaption{
     font-size: 15px;
 }
 /* /img-section */
+
+/* lorem ipsum section */
+.lorem-paragraph{
+    margin-top: 30px;
+    font-size: 20px;
+}
+span{
+    background-color: yellow;
+}
+
+/* /lorem ipsum section */
+
+
+/* ul lorem ipsum section  */
+.lorem-list{
+    font-size: 20px;
+    margin-top: 40px;
+    padding-left: 10px;
+}
+/* /ul lorem ipsum section  */
+
+/* table lorem section */
+/* /table lorem section */
 
 
 /* MAIN */
